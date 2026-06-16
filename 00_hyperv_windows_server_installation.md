@@ -11,4 +11,6 @@ Beispiel: Windows Server 2022 / Domain-Controller
 
 1) **Generation** : Generation 2 (Wichtig für UEFI und Sicherheitsfeatures wie Secure Boot) 
 2) **Speicher zuweisen** : 4096 MB (Dynamischen Arbeitsspeicher sollte eingestellt werden!)
-3) **Netzwerk konfiguration** : Default Switch wenn eine Internetverbindung benötigt wird, anonsten reicht der Private Switch für die Kommunikation innerhalb des Netzwerks.
+3) **Netzwerk konfiguration** : Default Switch wenn eine Internetverbindung benötigt wird, anonsten reicht der Private Switch für die Kommunikation innerhalb des Netzwerks. (Für mehr Informationen siehe: Virtuelle Switch)
+4) **Virtuelle Festplatte (VHDX)** : Die größe ist frei wählbar. Für meine Zwecke weise ich der virtuellen Festplatte 32 GB zu.
+5) 
